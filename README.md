@@ -1,6 +1,6 @@
-# Config
+# Environment
 
-Configuration Files of BasePlatform Services
+Configuration and Environment Files of BasePlatform Services
 
 # Commands
 
